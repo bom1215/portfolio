@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "portfolio"
+version = "0.1.0"
+description = ""
+authors = ["bom1215 <bom1215@naver.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+numpy = "^2.2.2"
+kagglehub = "^0.3.7"
+matplotlib = "^3.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

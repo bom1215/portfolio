@@ -1,5 +1,3 @@
-# Portfolio Repository(Read Me)
-
 # Introdudction
 
 This repository is a collection of my personal/team projects, open-source contribution and self-study, covering topics such as AI, Data Science, Backend Engineering, and Frontend Development (Vue.js, Android). It includes all sorts of topics I’ve explored since I started programming.

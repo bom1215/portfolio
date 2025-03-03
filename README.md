@@ -1,13 +1,13 @@
-# Introdudction
+# Introduction
 
-This repository is a collection of my personal/team projects, open-source contribution and self-study, covering topics such as AI, Data Science, Backend Engineering, and Frontend Development (Vue.js, Android). It includes all sorts of topics I’ve explored since I started programming.
+This repository is a collection of my personal/team projects, open-source contribution and self-study, covering topics such as AI, Data Science, Backend Engineering, and Frontend Development (Vue.js, Android). It includes all sorts of topics I have explored since I started programming.
 
 # Projects
 
 ### 1. Visa Assistant Chatbot with RAG
 
-- **Tags:** LLM, Backend,
-- **Description:** Chatbot service for foreigners who wants to get information about Korean visa system, administration services.
+- **Tags:** LLM, Backend
+- **Description:** A chatbot service for foreigners who want to receive information about the korean visa system and administrative services.
 - **Tools:** FastAPI, PostgreSQL, Docker, AWS, Langchain
 - **Role & Responsibilities:**
     - Developed a RAG (Retrieval-Augmented Generation) based chatbot.
@@ -16,10 +16,10 @@ This repository is a collection of my personal/team projects, open-source contri
     - Optimized API performance by introducing streaming responses and mitigating cold start issues.
 - **Key Achievements:**
     - Secured 2nd place in the Korean National Information Society Agency (NIA) government funding program. [🔗](https://www.koit.co.kr/news/articleView.html?idxno=126995)
-    - Integrated service on a social media platform (kakaotalk channel)
+    - Integrated service on a social media platform (KakaoTalk channel)
 - **Resources:**
-    - Blog Post (on going)
-    - App store (Launching soon)
+    - Blog Post (to be updated)
+    - App store (launching soon)
 
 ### 2. Korean Pronounciation Correction Service
 
@@ -49,15 +49,14 @@ I actively contribute to open-source projects to improve my coding skills and co
 | **Pykrx : stock data scraper** | Fix bugs : replace `append` with `pd.concat` | [#157](https://github.com/sharebook-kr/pykrx/pull/157) (Merged) |
 | **pydantic-sqlalchemy** | Migrate deprecated code to the latest version | [#160](https://github.com/tiangolo/pydantic-sqlalchemy/pull/160) |
 
-# Deep Learning Study
+# [Deep Learning Blog](https://bom1215.github.io/)
 
-### Building Deep Learning Models from scratch
 
-- **Description**: Building deep learning models from scratch without using PyTorch or TensorFlow and applying them to real-world tasks
+### Building Deep Learning Models
+Building deep learning models from scratch without using PyTorch or TensorFlow and applying them to real-world tasks
 
-**Works**
-
-- [Can numerical differentiation replace backpropagation in a Multilayer Perceptron (MLP)?](https://github.com/bom1215/portfolio/blob/main/deep_learning_from_scratch/train_mnist_mlp.ipynb)
+**Examples**
+- [Can numerical differentiation replace backpropagation in a Multilayer Perceptron (MLP)?](https://bom1215.github.io/posts/1/content.html)
 
 ## Getting Started
 

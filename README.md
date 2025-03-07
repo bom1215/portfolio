@@ -19,7 +19,7 @@ This repository is a collection of my personal/team projects, open-source contri
     - Integrated service on a social media platform (KakaoTalk channel)
 - **Resources:**
     - Blog Post (to be updated)
-    - App store (launching soon)
+    - [App store](https://apps.apple.com/kr/app/woorinara/id6741319366?platform=iphone)
 
 ### 2. Korean Pronounciation Correction Service
 

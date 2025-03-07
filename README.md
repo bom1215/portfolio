@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/a602ada9-b235-4a2e-bf14-9b07972fe023
     - Optimized API performance by introducing streaming responses and mitigating cold start issues.
 - **Key Achievements:**
     - Secured 2nd place in the Korean National Information Society Agency (NIA) government funding program. [🔗](https://www.koit.co.kr/news/articleView.html?idxno=126995)
-    - Integrated service on a social media platform (KakaoTalk channel)
+    - Integrated chatbot on a social media [KakaoTalk](https://pf.kakao.com/_xlAxhxjn)
 - **Resources:**
     - Blog Post (to be updated)
     - [App store](https://apps.apple.com/kr/app/woorinara/id6741319366?platform=iphone)

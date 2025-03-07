@@ -6,6 +6,13 @@ This repository is a collection of my personal/team projects, open-source contri
 
 ### 1. Visa Assistant Chatbot with RAG
 
+
+
+https://github.com/user-attachments/assets/a602ada9-b235-4a2e-bf14-9b07972fe023
+
+
+
+
 - **Tags:** LLM, Backend
 - **Description:** A chatbot service for foreigners who want to receive information about the korean visa system and administrative services.
 - **Tools:** FastAPI, PostgreSQL, Docker, AWS, Langchain

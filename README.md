@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/52b5978e-e2b5-4c1d-9817-72464fe4f443
     - Secured 2nd place in the Korean National Information Society Agency (NIA) government funding program. [🔗](https://www.koit.co.kr/news/articleView.html?idxno=126995)
     - Integrated chatbot on a social media [KakaoTalk](https://pf.kakao.com/_xlAxhxjn)
 - **Resources:**
-    - Blog Post (to be updated)
+    - [Blog Post](https://bom1215.github.io/en/portfolio/woorinara/content.html)
     - [App store](https://apps.apple.com/kr/app/woorinara/id6741319366?platform=iphone)
 
 ### 2. Korean Pronounciation Correction Service
